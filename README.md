@@ -89,6 +89,10 @@ Resultado:
 → HOLA MUNDO
 ```
 
+<img width="817" height="620" alt="Captura de pantalla 2026-05-18 163642" src="https://github.com/user-attachments/assets/787c113e-6226-46bc-a4f9-3f0969d69fb3" />
+<img width="791" height="266" alt="Captura de pantalla 2026-05-18 163631" src="https://github.com/user-attachments/assets/f2cb85c2-a48a-4c58-bc9e-807f03cba2eb" />
+
+
 ---
 
 ## Regenerar el parser (opcional)

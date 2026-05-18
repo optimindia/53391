@@ -1,0 +1,17 @@
+{
+  "name": "analizador-textlang",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Analizador léxico, sintáctico e intérprete para lenguaje de manipulación de texto - Tema 25914_11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}

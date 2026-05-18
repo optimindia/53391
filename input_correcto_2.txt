@@ -1,0 +1,10 @@
+variable nombre = "Juan";
+variable apellido = "Perez";
+variable completo = nombre + apellido;
+variable invertido = invertir(completo);
+variable largo = longitud(nombre);
+imprimir(completo);
+imprimir(invertido);
+imprimir(largo);
+variable enMinusculas = minusculas(completo);
+imprimir(enMinusculas);

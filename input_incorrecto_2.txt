@@ -1,0 +1,3 @@
+variable x = "texto";
+imprimir(x;
+variable y = mayusculas("hola";

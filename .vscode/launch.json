@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "antlr-debug",
+            "request": "launch",
+            "name": "Debug ANTLR4 grammar",
+            "input": "input_correcto_2.txt",
+            "grammar": "TextLang.g4",
+            "startRule": "programa",
+            "printParseTree": true,
+            "visualParseTree": true
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Run Analyzer",
+            "program": "${workspaceFolder}/index.js",
+            "console": "integratedTerminal"
+        }
+    ]
+}
